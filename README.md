@@ -1,7 +1,7 @@
  👋 Hi, I’m @MOHAMMED-ISMAIL-CHOWDRY171
 - 👀 I’m interested in learing phython 
 - 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on building my own search engine
 - 📫 How to reach me ...
 
 <!---
