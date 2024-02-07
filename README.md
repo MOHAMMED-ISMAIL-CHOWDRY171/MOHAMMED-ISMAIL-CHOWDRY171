@@ -2,7 +2,6 @@
 - 👀 I’m interested in learing phython 
 - 🌱 I’m currently learning C language
 - 💞️ I’m looking to collaborate on building my own search engine
-- 📫 How to reach me ...
 
 <!---
 MOHAMMED-ISMAIL-CHOWDRY171/MOHAMMED-ISMAIL-CHOWDRY171 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
